@@ -1,0 +1,567 @@
+{
+  "code": "200",
+  "message": "success",
+  "totalCount": 2,
+  "totallPage":1,
+  "currentPage":1,
+  "results": [
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨9",
+      "identificationId":"3202211985113056011",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1331655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨8",
+      "identificationId":"3202211985113056012",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1321655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨7",
+      "identificationId":"3202211985113056013",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1911655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨6",
+      "identificationId":"3202211985113056014",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1811655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨5",
+      "identificationId":"3202211985113056015",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1711655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨4",
+      "identificationId":"3202211985113056016",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1617655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨3",
+      "identificationId":"3202211985113056017",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1511655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨2",
+      "identificationId":"3202211985113056018",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1411655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨1",
+      "identificationId":"3202211985113056010",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1211655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老杨",
+      "identificationId":"320221198511305601",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "2611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老胡",
+      "identificationId":"330221198511305601",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "2611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老王",
+      "identificationId":"330251198511311601",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 0,
+        "records":[
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "2611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+      "name": "老陈",
+      "identificationId":"330251198511305601",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "3611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+      "name": "老宋",
+      "identificationId":"330251198511305608",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "4611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      }
+    },
+    {
+      "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/2.jpg",
+      "name": "刘建明",
+      "identificationId":"330251198901125874",
+      "recordCount":1,
+      "mainPilot": {
+        "count": 0,
+        "records":[]
+      },
+      "coPilot": {
+        "count": 10,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      }
+    }
+  ]
+}

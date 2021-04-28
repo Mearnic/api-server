@@ -1,0 +1,166 @@
+{
+  "code": "200",
+  "message": "success",
+  "totalCount": 2,
+  "totallPage":1,
+  "currentPage":1,
+  "results": [
+    {
+      "plateNum": "浙A7C77M",
+      "recordCount":3,
+      "mainPilot": {
+        "count": 3,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/7.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/7.jpg",
+            "name":"陈永仁1",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/8.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "name":"陈永仁2",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/2.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "name":"陈永仁3",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CLBGR16443EN",
+            "channelId": "MFrt4j83B1CLBGR16443EN",
+            "channelName": "杭州市滨江区江南大道与火炬大道十字路口动向卡口",
+            "channelLongitude": 120.869471,
+            "channelLatitude": 30.514254,
+            "capDate": "1611655008000",
+            "capDateStr": "2021-01-26 17:50:16"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/2.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "name":"陈永仁3",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CLBGR16443EN",
+            "channelId": "MFrt4j83B1CLBGR16443EN",
+            "channelName": "杭州市滨江区江南大道与火炬大道十字路口动向卡口",
+            "channelLongitude": 120.869471,
+            "channelLatitude": 30.514254,
+            "capDate": "1611655008000",
+            "capDateStr": "2021-01-26 17:50:16"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/2.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "name":"陈永仁3",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CLBGR16443EN",
+            "channelId": "MFrt4j83B1CLBGR16443EN",
+            "channelName": "杭州市滨江区江南大道与火炬大道十字路口动向卡口",
+            "channelLongitude": 120.869471,
+            "channelLatitude": 30.514254,
+            "capDate": "1611655008000",
+            "capDateStr": "2021-01-26 17:50:16"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/2.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "name":"陈永仁3",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CLBGR16443EN",
+            "channelId": "MFrt4j83B1CLBGR16443EN",
+            "channelName": "杭州市滨江区江南大道与火炬大道十字路口动向卡口",
+            "channelLongitude": 120.869471,
+            "channelLatitude": 30.514254,
+            "capDate": "1611655008000",
+            "capDateStr": "2021-01-26 17:50:16"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/2.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "name":"陈永仁3",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CLBGR16443EN",
+            "channelId": "MFrt4j83B1CLBGR16443EN",
+            "channelName": "杭州市滨江区江南大道与火炬大道十字路口动向卡口",
+            "channelLongitude": 120.869471,
+            "channelLatitude": 30.514254,
+            "capDate": "1611655008000",
+            "capDateStr": "2021-01-26 17:50:16"
+          },
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/2.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "name":"陈永仁3",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CLBGR16443EN",
+            "channelId": "MFrt4j83B1CLBGR16443EN",
+            "channelName": "杭州市滨江区江南大道与火炬大道十字路口动向卡口",
+            "channelLongitude": 120.869471,
+            "channelLatitude": 30.514254,
+            "capDate": "1611655008000",
+            "capDateStr": "2021-01-26 17:50:16"
+          }
+        ]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/3.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/1.jpg",
+            "name":"陈永仁",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CKV0V58M5PMN",
+            "channelId": "MFrt4j83B1CKV0V58M5PMN",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      }
+    },
+    {
+      "plateNum": "浙A6k999",
+      "recordCount":1,
+      "mainPilot": {
+        "count": 0,
+        "records":[]
+      },
+      "coPilot": {
+        "count": 1,
+        "records":[
+          {
+            "carImgUrl":"http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/2.jpg",
+            "faceImgUrl": "http://127.0.0.1:8888/%E5%9B%BE%E7%89%87/8.jpg",
+            "name":"陈永仁",
+            "identificationId":"330251198511305608",
+            "channelCode": "MFrt4j83B1CLBGR1688974",
+            "channelId": "MFrt4j83B1CLBGR1688974",
+            "channelName": "杭州市滨江区滨安路与江晖路十字路口东向卡口",
+            "channelLongitude": 120.025791,
+            "channelLatitude": 30.016711,
+            "capDate": "1611655104000",
+            "capDateStr": "2021-01-26 17:58:24"
+          }
+        ]
+      }
+    }
+  ]
+}
