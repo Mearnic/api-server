@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 )
 
-var basePath = "source/"
+var basePath = "../source/"
 
 func ReadJson(fileName string) string {
 	var path = basePath + fileName

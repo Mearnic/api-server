@@ -14,7 +14,7 @@ import (
 	"reflect"
 )
 
-const subPackage = "src/api"
+const subPackage = "api"
 
 func getFuncSet() []*ast.FuncDecl {
 	set := token.NewFileSet()
